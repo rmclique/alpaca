@@ -16,7 +16,7 @@
 Windows in a Docker container.
 
 ## Features
- - Versão dem bloqueio de arquitetura ARCH64 pode rodar qualquer sistema até na VM da Oracle.
+ - Versão sem bloqueio de arquitetura ARCH64 pode rodar qualquer sistema até na VM da Oracle.
  - ISO downloader
  - KVM acceleration
  - Web-based viewer
