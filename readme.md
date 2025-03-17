@@ -1,4 +1,4 @@
-<h1 align="center">céditos  https://github.com/dockur/windows<br />
+<h1 align="center">créditos  https://github.com/dockur/windows<br />
 
 <h1 align="center">Windows<br />
 <div align="center">
